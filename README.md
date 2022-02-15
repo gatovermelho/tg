@@ -11,4 +11,5 @@
 Ссылка - tg.oleonka.rdevelopers.ru/AssistantOleonka_bot
 
 
+P.S. За код огромное спасибо https://github.com/Taraflex
 (c) 2021-2022 Ассистент Олёнка      (с) 2020-2022 Rece Developers
